@@ -57,7 +57,7 @@ body {
 .parallax {
   /* The image used */
   /* background-image: url("../Assets/slate-texture-background_24972-292.jpg"); */
-  background-image: url("../Assets/future-factory-plant-energy-industry-concept_31965-2953.jpg");
+  background-image: url("Assets/future-factory-plant-energy-industry-concept_31965-2953.jpg");
   /* Full height */
   height: 100%;
   width: 100%;
@@ -75,7 +75,7 @@ body {
 }
 
 .ab {
-  background: url("../Assets/oil-gas-refinery-plant-petrochemical-industry-sky-sunset-background-gas-storage-sphere-tank-distillation-tower-petroleum-industrial_168569-25.jpg") no-repeat fixed center;
+  background: url("Assets/oil-gas-refinery-plant-petrochemical-industry-sky-sunset-background-gas-storage-sphere-tank-distillation-tower-petroleum-industrial_168569-25.jpg") no-repeat fixed center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
